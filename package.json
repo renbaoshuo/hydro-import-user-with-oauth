@@ -1,0 +1,11 @@
+{
+    "name": "hydro-import-user-with-oauth",
+    "description": "Hydro plugin that automatically binds OAuth accounts when importing users",
+    "version": "0.0.1",
+    "author": "Baoshuo <i@baoshuo.ren> ( https://baoshuo.ren )",
+    "license": "MIT",
+    "main": "index.ts",
+    "peerDependencies": {
+        "hydrooj": "*"
+    }
+}
