@@ -5,6 +5,11 @@
     "author": "Baoshuo <i@baoshuo.ren> ( https://baoshuo.ren )",
     "license": "MIT",
     "main": "index.ts",
+    "homepage": "https://github.com/renbaoshuo/hydro-import-user-with-oauth",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/renbaoshuo/hydro-import-user-with-oauth.git"
+    },
     "peerDependencies": {
         "hydrooj": "*"
     }
