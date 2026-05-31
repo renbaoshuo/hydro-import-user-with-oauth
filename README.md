@@ -72,6 +72,6 @@ user@example.com	user1	123456	张三	{"oauth":{"github":"12345"},"group":"classA
 
 ## Author
 
-**hydro-import-user-with-oauth** © [Baoshuo](https://github.com/renbaoshuo), Released under the [AGPL-3.0](./LICENSE) License.
+**hydro-import-user-with-oauth** © [Baoshuo](https://github.com/renbaoshuo), Released under the [MIT](https://github.com/renbaoshuo/hydro-import-user-with-oauth/blob/master/LICENSE) License.
 
 > [Personal Website](https://baoshuo.ren) · [Blog](https://blog.baoshuo.ren) · GitHub [@renbaoshuo](https://github.com/renbaoshuo)
